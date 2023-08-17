@@ -3,4 +3,3 @@ Hello World 2
 + Mencoba menambahkan pemaruan deskripsi
 
 + Mencoba melakukan pull request melalui fork
-+coba edit code review
